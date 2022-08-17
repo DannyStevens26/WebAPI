@@ -1,0 +1,38 @@
+{
+    "OrderItem":
+    {
+    "product":"tea"
+    },
+    "Address" :
+    {
+        "houseNumber":"7",
+        "streetName":"Dee Drive",
+        "postcode":"S426TT"
+    }
+}
+
+{
+    "OrderItem":
+    {
+    "product":"Carrots"
+    },
+    "Address" :
+    {
+        "houseNumber":"101",
+        "streetName":"Dee Drive",
+        "postcode":"S426TT"
+    }
+}
+
+{
+    "OrderItem":
+    {
+    "product":"Honey"
+    },
+    "Address" :
+    {
+        "houseNumber":"59",
+        "streetName":"Schmelvis Street",
+        "postcode":"S426SH"
+    }
+}

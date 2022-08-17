@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91437839_002D8295_002D4ede_002D915d_002D8f379dbbe078/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateFromCreateAddressCommandIsCalled_WithEXpectedValues" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::465F30C2-152F-4DCD-9426-B1531B7E0EE1::net5.0::OrdersOrganiser.Tests.Commands.CreateAccountCommandTests.CreateFromCreateAddressCommandIsCalled_WithEXpectedValues&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9adfadd0_002Dd094_002D4887_002Db5be_002Dcef665c7e5b4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateFromCreateAddressCommandIsCalled_WithEXpectedValues #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::465F30C2-152F-4DCD-9426-B1531B7E0EE1::net5.0::OrdersOrganiser.Tests.Commands.CreateAccountCommandTests.CreateFromCreateAddressCommandIsCalled_WithEXpectedValues&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
