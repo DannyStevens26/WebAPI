@@ -14,7 +14,7 @@ namespace OrdersOrganiser.BusinessLayer.Commands
         {
             var client = new SendGridClient(apiKey);
 
-            var from = new EmailAddress("stevensleadanny@hotmail.co.uk", "Danny Stevens");
+            var from = new EmailAddress("frankman@hotmail.co.uk", "Danny Stevens");
             var to = new EmailAddress(account.Email, $"{account.FirstName} {account.LastName}");
 
             var msg = MailHelper.CreateSingleEmail(from, to, subject, "", body);
